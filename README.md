@@ -2,7 +2,7 @@
 
 ### The Assignment
 
-- Create a “Parser” Object and a main.cpp file to handle IO
+- Create a “Parser” Object and a main file to handle IO
 - Must have 2 functions
 	- Pyramids
         - Print a pyramid based on command line specifications
